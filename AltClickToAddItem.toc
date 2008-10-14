@@ -1,4 +1,4 @@
-## Interface: 20400
+## Interface: 30000
 ## Version: 1.1
 ## Title: AltClickToAddItem  |cff7fff7f -Ace2-|r
 ## Author: Grennon
