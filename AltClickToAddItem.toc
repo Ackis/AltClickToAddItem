@@ -1,13 +1,18 @@
 ## Interface: 30000
-## Version: 1.1
+## Version: 1.2
 ## Title: AltClickToAddItem  |cff7fff7f -Ace2-|r
 ## Author: Grennon
 ## Notes: AltClick an item in your bag to add it a mail, auction, or trade frame, and alt-click to buy a stack if reagents.
 ## X-Category: Interface Enhancements
 ## X-eMail: jeramy.smith@gmail.com
 ## OptionalDeps: Ace2
-## X-Embeds: Ace2
 
-embeds.xml
+#@no-lib-strip@
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+libs\AceAddon-2.0\AceAddon-2.0.lua
+libs\AceHook-2.1\AceHook-2.1.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+#@end-no-lib-strip@
 
 AltClickToAddItem.lua

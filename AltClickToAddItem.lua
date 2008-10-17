@@ -12,7 +12,7 @@ end
 
 function AltClickToAddItem:MerchantItemButton_OnModifiedClick(...)
   if IsAltKeyDown() then
-    self.item = this:GetID()
+    self.item = (...):GetID()
     local ItemMaxStack = GetMerchantItemMaxStack(self.item)
     local _, _, price, quantity = GetMerchantItemInfo(self.item)
     --Dont buy reagents at all when you are too poor to afford a full stack.
@@ -35,8 +35,8 @@ end
 -- Various Alt-Click handlers for items in Bags.
 
 function AltClickToAddItem:ContainerFrameItemButton_OnModifiedClick(...)
-  if  (...) == "LeftButton" and IsAltKeyDown() and not CursorHasItem() then
-    self.bag, self.slot = this:GetParent():GetID(), this:GetID()
+  if select(2, ...) == "LeftButton" and IsAltKeyDown() and not CursorHasItem() then
+    self.bag, self.slot = (...):GetParent():GetID(), (...):GetID()
 
     -- add item to mail
     if SendMailFrame:IsVisible() then
