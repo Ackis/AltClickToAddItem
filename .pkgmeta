@@ -1,5 +1,18 @@
 package-as: AltClickToAddItem
 
+license-output: LICENSE.txt
+
+enable-nolib-creation: yes
+
+ignore:
+ - .pkgmeta
+ - .docmeta
+ - Docs
+
+tools-used:
+ - dlcount
+ - querier
+ 
 externals:
     libs/AceAddon-2.0: svn://svn.wowace.com/wow/ace2/mainline/trunk/AceAddon-2.0
     libs/AceEvent-2.0: svn://svn.wowace.com/wow/ace2/mainline/trunk/AceEvent-2.0

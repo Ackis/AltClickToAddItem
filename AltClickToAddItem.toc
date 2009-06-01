@@ -1,11 +1,17 @@
-## Interface: 30000
-## Version: 1.2
-## Title: AltClickToAddItem  |cff7fff7f -Ace2-|r
-## Author: Grennon
+## Title: AltClickToAddItem
 ## Notes: AltClick an item in your bag to add it a mail, auction, or trade frame, and alt-click to buy a stack if reagents.
+
+## Author: Ackis
+## eMail: ackis AT shaw DOT ca
+## X-Author-Faction = Horde
+## X-Author-Server = Thunderlord US
+## X-Donate: http://www.wowace.com/projects/ihml/#w_donations
+
+## Interface: 30100
+## Version: 1.2
 ## X-Category: Interface Enhancements
-## X-eMail: jeramy.smith@gmail.com
 ## OptionalDeps: Ace2
+## X-Credits: Grennen
 
 #@no-lib-strip@
 libs\AceLibrary\AceLibrary.lua
