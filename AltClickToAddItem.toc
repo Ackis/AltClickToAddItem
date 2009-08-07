@@ -7,8 +7,8 @@
 ## X-Author-Server = Thunderlord US
 ## X-Donate: http://www.wowace.com/projects/ihml/#w_donations
 
-## Interface: 30100
-## Version: 1.21
+## Interface: 30200
+## Version: 1.22
 ## X-Category: Interface Enhancements
 ## OptionalDeps: Ace2
 ## X-Credits: Grennen
