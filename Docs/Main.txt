@@ -1,5 +1,5 @@
 == What it does ==
-Alt-Click to Add Item will add the ability to alt-click an item in your bag to add it a mail, auction, or trade frame, and alt-click to buy a stack if reagents.
+Alt-Click to Add Item will add the ability to alt-click an item in your bag to add it mail, auctions, or trade frames, or alt-click to buy a stack if reagents.
 
 == Where to get it ==
 *[http://www.wowace.com/projects/alt-click-to-add-item/files/ WoW Ace] - Often Beta quality
