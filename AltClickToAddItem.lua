@@ -1,5 +1,7 @@
---[[ Alt-Click to add an item to a mail for sending or to the trade frame, and alt-click to buy a stack if reagents ]]--
-AltClickToAddItem = AceLibrary("AceAddon-2.0"):new("AceHook-2.1")
+--[[
+Alt-Click to add an item to a mail for sending or to the trade frame, and alt-click to buy a stack if reagents
+]]--
+AltClickToAddItem = LibStub("AceAddon-3.0"):NewAddon("AltClickToAddItem", "AceHook-3.0")
 
 function AltClickToAddItem:OnEnable()
 	self:Hook("ContainerFrameItemButton_OnModifiedClick", true)
