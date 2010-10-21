@@ -6,7 +6,7 @@ Alt-Click to Add Item will add the ability to alt-click an item in your bag to a
 *[[http://wow.curse.com/downloads/wow-addons/details/alt-click-to-add-item.aspx | Curse]] - Most updated stable version
 
 ==Donations==
-I have setup a donation site via [http://www.pledgie.com/campaigns/3462 Pledgie].  Feel free to donate if you like this mod.  I have put countless hours of time and effort into it along with many people who have helped me.  I did not write this mod with the intent to make any money from it, I wrote it to help me with some needs that I saw in-game.
+I have setup a donation site via [[[http://www.pledgie.com/campaigns/13809 | Plegie]].  Feel free to donate if you like this mod.  I have put countless hours of time and effort into it along with many people who have helped me.  I did not write this mod with the intent to make any money from it, I wrote it to help me with some needs that I saw in-game.
 
 If you don't wish to donate money feel free to consider one of the following methods which may be more suitable:
 * Volunteer time at your local animal shelter such as the [[http://www.aspca.org/|Society for Prevention of Cruelty for Animals (SPCA)]] or a [[http://www.edmontonhumanesociety.com/|local humane shelter]] or drop a few bucks off for them.  If you do this, please let [[http://www.wowace.com/home/send-private-message/|Ackis]] know.
