@@ -23,4 +23,4 @@ Please use the [[http://www.wowace.com/projects/alt-click-to-add-item/tickets/ |
 Please use the [[http://www.wowace.com/projects/alt-click-to-add-item/tickets/ | WoW Ace]] tracker to file bug reports.
 
 ==Wiki
-[[http://www.wowwiki.com/AltClickToAddItem | WoW Wiki]]
+[[http://www.wowpedia.org/AltClickToAddItem | Wowpedia]]
