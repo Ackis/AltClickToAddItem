@@ -4,11 +4,15 @@
 ## Author: Ackis
 ## eMail: ackis AT shaw DOT ca
 ## X-Author-Faction = Horde
-## X-Author-Server = Thunderlord US
+## X-Author-Server = Hyjal US
 ## X-Donate: http://www.wowace.com/projects/alt-click-to-add-item/#w_donations
 
-## Interface: 40300
-## Version: 1.41
+## Interface: 50001
+## X-Compatible-With: 50001
+## Version: @project-version@
+## X-Revision: @project-abbreviated-hash@
+## X-Date: @file-date-iso@
+
 ## X-Category: Interface Enhancements
 ## OptionalDeps: Ace3
 ## X-Credits: Grennen
